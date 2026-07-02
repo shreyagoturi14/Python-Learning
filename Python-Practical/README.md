@@ -43,9 +43,6 @@ This repository contains Python programs and practice exercises completed while 
 - Arguments and return values
 - Recursive functions
 
-### Project 1 - Snake, Water, Gun Game
-- Python implementation of the classic game
-
 ### Chapter 9 - File Handling
 - Reading files
 - Writing files

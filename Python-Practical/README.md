@@ -2,7 +2,6 @@
 This repository contains Python programs and practice exercises completed while learning Python programming. It covers core concepts from beginner to intermediate level, along with hands-on projects and practice sets.
 
 ## Topics Covered
-
 ### Chapter 1 - Modules, Comments & pip
 - Importing modules
 - Writing comments

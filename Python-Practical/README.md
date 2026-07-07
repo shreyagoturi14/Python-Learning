@@ -64,4 +64,3 @@ This repository contains Python programs and practice exercises completed while 
 This repository serves as a personal learning journal and practical reference for Python programming concepts, coding exercises, and mini-projects.
 
 ---
-**Author:** Shreya G

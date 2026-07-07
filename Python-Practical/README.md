@@ -57,9 +57,6 @@ This repository contains Python programs and practice exercises completed while 
 - Method overriding
 - Multiple inheritance
 
-### Project 2 - The Perfect Guess
-- Number guessing game using random numbers
-
 ### Chapter 12 - Advanced Python
 - Advanced concepts and practical exercises
 
